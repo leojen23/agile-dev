@@ -176,7 +176,8 @@
     font-size: 1rem;
     box-sizing: border-box;
     height: auto;
-    width: 100%;
+    margin-top:2rem;
+    margin-bottom: 2rem;
     height: 500px;
 }
 
