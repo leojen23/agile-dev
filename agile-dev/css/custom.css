@@ -1,3 +1,99 @@
+
+.row{
+    margin-bottom: 0;
+}
+/*Section 2*/
+/*Bénéfices*/
+
+.img_bénéf{
+    max-width: 50%;
+    height:auto;
+    margin-left: 15px;
+}
+.content_bénéfices{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 60px;
+    margin-left: 30px;
+
+}
+
+.content_bénéfices p{
+    margin-bottom:70px ;
+}
+
+
+/*Section 3*/
+/*Feature*/
+#Feature{
+    background-color: rgb(190, 190, 190);
+    background-size: contain;}
+
+
+
+.content_feature1{
+    text-align: end;
+    padding-right: 15px;
+    padding-top: 100px;
+
+}
+.content_feature2{
+    padding-top: 80px;
+    text-align: center;
+}
+.img_feature{
+    max-width: 50%;
+    height:auto;
+    margin-left: 15px;
+}
+
+.content_feature3_1{
+    margin-top: 0px;
+    padding-top: 50px;
+
+
+}
+.content_feature3_2{
+    margin-top: 0px;
+    padding-bottom: 50px;
+}
+.content_feature3 h3{
+    margin: 0;
+    
+}
+.logo_RS {
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+
+
+}
+.logo_RS img {
+
+    border-radius: 100%;
+    margin-top: 20px;
+    width: 50px;
+    height:50px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+.copyright{
+    color: white;
+    display: flex;
+    flex-flow: wrap;
+    text-align: center;
+    padding: 20px;
+    padding-top: 0;
+}
+
+
 /* CONTACT SECTION STARTS */
 #contact{
     font-size: 1rem;
@@ -40,6 +136,7 @@
 
 
    
+
 
 
 
