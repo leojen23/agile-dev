@@ -1,4 +1,81 @@
 
+
+/* DEBUT CSS PERLE */
+
+#header {
+    margin-top: 50px;
+    padding-top: 40px;
+    color: black;
+}
+
+#header_row {
+    margin-bottom: 0px;
+}
+
+#header_logo {
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#header_nav_links {
+    margin-right: 10px;
+}
+
+.header_link {
+    font-size: 25px;
+    margin: 0px 20px;
+}
+
+#header_button {
+    margin-bottom: 5px;
+    margin-left: 20px;
+    color: black;
+}
+
+#section1 {
+    margin-top: 0px;
+    height: 100%;
+}
+
+#header_img {
+    max-width : 80%;
+    height: auto;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+#section1_text_box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    margin: auto;
+    width: 60%;
+    height: 100%;
+    margin-top: 150px;
+}
+
+.section1_text {
+    margin-top: 15px;
+}
+
+.section1_text p {
+    display: inline;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+#section1_buttons {
+    margin-top: 50px;
+}
+
+.section1_button {
+    margin-right: 40px;
+}
+
+/* FIN CSS PERLE */
+
 .row{
     margin-bottom: 0;
 }
